@@ -11,11 +11,8 @@ public:
 	int Index(int* integer, int i, int x);
 	int modify(int* Integer, int y, int z, int number);
 	
-
-
-
 };
-#endi
+#endif
 
 
 
@@ -178,5 +175,6 @@ int main()
 75 45 86 77 67 36 27 18 88 59
 79 58 29 28 49 48 39 89 69  7
   
+ # when you run the code this is what you see.
  ![my code](https://user-images.githubusercontent.com/113943791/192078830-ed8dd1c9-b737-4dae-9d88-467b2a6508ee.png)
 
